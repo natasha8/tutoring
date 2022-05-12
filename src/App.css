@@ -5,3 +5,7 @@
 .test {
     @apply w-screen h-screen flex justify-center items-center bg-purple-300 font-mono;
 }
+
+.one {
+    @apply border-2 p-10 rounded-2xl w-2/5 flex justify-center items-center;
+}
